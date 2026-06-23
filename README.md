@@ -1,5 +1,8 @@
 # 🎯 Click Rush
 
+# Live Link:
+https://click-rush-fawn.vercel.app/
+
 A fast-paced reaction-based clicking game built using **HTML, CSS, and JavaScript**.
 
 The goal is simple: click the moving box as many times as possible before the timer runs out. Test your speed and reaction time!
